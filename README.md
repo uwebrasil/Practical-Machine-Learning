@@ -2,7 +2,7 @@ Practical-Machine-Learning
 ==========================
 
 This is the Course Project for Coursera Practical Machine Learning at John Hopkins.
-The data is loaded from local device. You'll need to download from sources below.
+<br />The data is loaded from local device. You'll need to download from sources below.
 
 Background
 
